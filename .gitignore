@@ -1,1 +1,27 @@
+plain text
 
+# Expedientes y documentos
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.zip
+
+# Datos y bases de datos
+*.csv
+*.json
+*.db
+*.sqlite
+
+# Archivos temporales
+.DS_Store
+*.tmp
+~$*
+
+# Carpetas que nunca deben subirse
+expedientes/
+clientes/
+documentos/
+datos/
+privado/
